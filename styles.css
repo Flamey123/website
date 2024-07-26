@@ -29,7 +29,7 @@ body h1 {
 
 main {
     display: flex;
-    flex-direction: center;
+    flex-direction: column;
     align-items: center;
     justify-content: center;
     padding: 2rem 0;
