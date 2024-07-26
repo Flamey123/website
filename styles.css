@@ -1,62 +1,66 @@
-body {
-    font-family: Arial, sans-serif;
+/* Basic reset for margin and padding */
+* {
     margin: 0;
     padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
     background-color: #f4f4f4;
-}
-
-header {
-    background-color: #333;
-    color: white;
-    text-align: center;
-    padding: 1rem 0;
-}
-
-body h1 {
-    font-size: 2.5rem;
-    text-align: center;
-    margin: 0;
-    padding: 0.5rem;
-    letter-spacing: 1px;
+    color: #333;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    padding: 1rem;
 }
 
 .container {
     width: 100%;
     max-width: 1200px;
     margin: 0 auto;
-    padding: 0 1rem;
+    text-align: center;
+    padding: 1rem;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 
-main {
+h1 {
+    font-size: 2.5rem;
+    margin-bottom: 1rem;
+    color: #333;
+}
+
+#wishlist {
     display: flex;
     flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    padding: 2rem 0;
+    gap: 1rem;
 }
 
 .wishlist-item {
-    background-color: white;
+    background-color: #fff;
     border: 1px solid #ddd;
-    border-radius: 5px;
+    border-radius: 8px;
     padding: 1rem;
-    margin: 1rem 0;
-    width: 90%;
-    max-width: 500px;
+    text-align: left;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-    text-align: center;
 }
 
 .wishlist-item h2 {
-    margin: 0 0 0.5rem;
+    font-size: 1.5rem;
+    margin-bottom: 0.5rem;
 }
 
 .wishlist-item p {
     color: #555;
-    margin: 0 0 1rem;
+    margin-bottom: 0.5rem;
 }
 
 .wishlist-item a {
+    display: inline-block;
     text-decoration: none;
     color: white;
     background-color: #007bff;
@@ -68,17 +72,17 @@ main {
     background-color: #0056b3;
 }
 
-/* Media Queries for Responsive Design */
+/* Responsive Design */
 @media (min-width: 600px) {
-    main {
+    #wishlist {
         flex-direction: row;
         flex-wrap: wrap;
         justify-content: center;
     }
 
     .wishlist-item {
-        margin: 1rem;
         width: 45%;
+        margin: 1%;
     }
 }
 
