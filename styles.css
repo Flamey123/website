@@ -5,45 +5,48 @@ body {
     background-color: #f4f4f4;
 }
 
-.container {
-    width: 80%;
-    margin: 0 auto;
-    max-width: 1200px;
-    padding: 20px;
+header {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 1rem 0;
 }
 
-h1 {
-    text-align: center;
-    color: #000000;
+main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 2rem;
 }
 
 .wishlist-item {
-    background: #ffffff00;
-    margin: 10px 0;
-    padding: 20px;
-    border-radius: 8px;
+    background-color: white;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 1rem;
+    margin: 1rem 0;
+    width: 300px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
 }
 
 .wishlist-item h2 {
-    margin: 0 0 10px 0;
+    margin: 0 0 0.5rem;
 }
 
 .wishlist-item p {
-    margin: 0 0 10px 0;
+    color: #555;
+    margin: 0 0 1rem;
 }
 
 .wishlist-item a {
-    color: #007BFF;
     text-decoration: none;
+    color: white;
+    background-color: #007bff;
+    padding: 0.5rem 1rem;
+    border-radius: 5px;
 }
 
 .wishlist-item a:hover {
-    text-decoration: underline;
-}
-
-@media (max-width: 768px) {
-    .container {
-        width: 95%;
-    }
+    background-color: #0056b3;
 }
