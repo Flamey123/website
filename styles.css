@@ -25,7 +25,8 @@ main {
     border-radius: 5px;
     padding: 1rem;
     margin: 1rem 0;
-    width: 300px;
+    width: 90%;
+    max-width: 500px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     text-align: center;
 }
@@ -49,4 +50,30 @@ main {
 
 .wishlist-item a:hover {
     background-color: #0056b3;
+}
+
+/* Media Queries for Responsive Design */
+@media (min-width: 600px) {
+    main {
+        flex-direction: row;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+
+    .wishlist-item {
+        margin: 1rem;
+        width: 45%;
+    }
+}
+
+@media (min-width: 768px) {
+    .wishlist-item {
+        width: 30%;
+    }
+}
+
+@media (min-width: 1024px) {
+    .wishlist-item {
+        width: 23%;
+    }
 }
