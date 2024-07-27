@@ -1,14 +1,14 @@
 document.addEventListener('DOMContentLoaded', function() {
     const wishlist = [
         {
-            name: 'Product 1',
-            info: 'This is a great product.',
-            link: 'https://example.com/product1'
+            name: 'GoPro Hero 10',
+            info: 'Actionkamera til å feks filme cubing.',
+            link: 'https://www.prisjakt.no/product.php?p=5715775'
         },
         {
-            name: 'Product 2',
-            info: 'This is another great product.',
-            link: 'https://example.com/product2'
+            name: 'YJ MGC 7x7 M',
+            info: 'Dette er en magnetisk 7x7 cube.',
+            link: 'https://mastercubestore.no/yj-moyu/1438-yj-mgc-7x7-magnetic-stickerless-6970774553313.html'
         },
         // Add more products here
     ];
@@ -29,7 +29,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
         const productLink = document.createElement('a');
         productLink.href = product.link;
-        productLink.textContent = 'Buy Now';
+        productLink.textContent = 'Finn pris';
         productLink.target = '_blank';
         productElement.appendChild(productLink);
 
