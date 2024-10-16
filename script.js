@@ -10,6 +10,20 @@ document.addEventListener('DOMContentLoaded', function() {
             info: 'Dette er en magnetisk 7x7 cube.',
             link: 'https://mastercubestore.no/yj-moyu/1438-yj-mgc-7x7-magnetic-stickerless-6970774553313.html'
         },
+        {
+            name: 'Gan Lube II (Light)',
+            info: 'Silikonbasert glidemiddel til Rubix cuber. Lav viskositet.',
+            link: 'https://mastercubestore.no/gancube/1925-gan-lube-ii-accel-10-ml-light.html'
+        },
+        {
+            name: 'Gan Lube III (Heavy)',
+            info: 'Silikonbasert glidemiddel til Rubix cuber. Høy viskositet.',
+            link: 'https://mastercubestore.no/gancube/1926-gan-lube-iii-mastery-10-ml-heavy.html'
+        },
+        {
+            name: 'Penger!',
+            info: 'Brukes til å betale for produkter og tjenester :-D'
+        },
         // Add more products here
     ];
 
