@@ -22,8 +22,8 @@ document.addEventListener('DOMContentLoaded', function() {
         },
         {
             name: 'Penger!',
-            info: 'Brukes til å betale for produkter og tjenester :-D'
-            link: 'https://no.wikipedia.org/wiki/Norsk_krone'
+            info: 'Brukes til å betale for produkter og tjenester :-D',
+            link: ''
         },
         // Add more products here
     ];
