@@ -22,8 +22,7 @@ document.addEventListener('DOMContentLoaded', function() {
         },
         {
             name: 'Penger!',
-            info: 'Brukes til å betale for produkter og tjenester :-D',
-            link: ''
+            info: 'Brukes til å betale for produkter og tjenester :-D'
         },
         // Add more products here
     ];
