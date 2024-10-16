@@ -42,7 +42,7 @@ document.addEventListener('DOMContentLoaded', function() {
         productInfo.textContent = product.info;
         productElement.appendChild(productInfo);
 
-        if (product.link != ''); {
+        if (product.link) {
             const productLink = document.createElement('a');
             productLink.href = product.link;
             productLink.textContent = 'Finn pris';
