@@ -21,6 +21,11 @@ document.addEventListener('DOMContentLoaded', function() {
             link: 'https://mastercubestore.no/gancube/1926-gan-lube-iii-mastery-10-ml-heavy.html'
         },
         {
+            name: 'Nerdforge Chreative Chaos Journal',
+            info: 'Tegnebok med et spesielt design som kommer fra et YouTube par i Norge.',
+            link: 'https://nerdforge.store/p/7918888485055'
+        },
+        {
             name: 'Penger!',
             info: 'Brukes til å betale for produkter og tjenester :-D'
         },
