@@ -12,12 +12,12 @@ document.addEventListener('DOMContentLoaded', function() {
         },
         {
             name: 'Gan Lube II (Light)',
-            info: 'Silikonbasert glidemiddel til Rubix cuber. Lav viskositet.',
+            info: 'Silikonbasert glidemiddel til Rubiks cuber. Lav viskositet.',
             link: 'https://mastercubestore.no/gancube/1925-gan-lube-ii-accel-10-ml-light.html'
         },
         {
             name: 'Gan Lube III (Heavy)',
-            info: 'Silikonbasert glidemiddel til Rubix cuber. Høy viskositet.',
+            info: 'Silikonbasert glidemiddel til Rubiks cuber. Høy viskositet.',
             link: 'https://mastercubestore.no/gancube/1926-gan-lube-iii-mastery-10-ml-heavy.html'
         },
         {
