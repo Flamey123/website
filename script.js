@@ -26,6 +26,11 @@ document.addEventListener('DOMContentLoaded', function() {
             link: 'https://nerdforge.store/p/7918888485055'
         },
         {
+            name: 'Labyrint Duell Spill',
+            info: 'Brettspill for 2 spillere som handler om å slide brikker til riktig plass.',
+            link: 'https://www.finn.no/bap/forsale/ad.html?finnkode=349490765&ci=6'
+        },
+        {
             name: 'Penger!',
             info: 'Brukes til å betale for produkter og tjenester :-D'
         },
