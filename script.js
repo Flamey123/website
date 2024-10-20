@@ -31,6 +31,21 @@ document.addEventListener('DOMContentLoaded', function() {
             link: 'https://www.finn.no/bap/forsale/ad.html?finnkode=349490765&ci=6'
         },
         {
+            name: 'One Piece Vol.2',
+            info: 'Dette er den andre boka i en mangaserie(manga er japansk tegneserie).',
+            link: 'https://www.outland.no/one-piece-2'
+        },
+        {
+            name: 'One Piece Vol.3',
+            info: 'Dette er den tredje boka i en mangaserie(manga er japansk tegneserie).',
+            link: 'https://www.outland.no/one-piece-3'
+        },
+        {
+            name: 'One Piece Vol.2 Omnibus Edition',
+            info: 'Dette er en 3 i 1 bok med 3 bøker fra en manga(manga er japansk tegneserie).',
+            link: 'https://www.outland.no/one-piece-3-in-1-4-5-6'
+        },
+        {
             name: 'Penger!',
             info: 'Brukes til å betale for produkter og tjenester :-D'
         },
