@@ -46,6 +46,11 @@ document.addEventListener('DOMContentLoaded', function() {
             link: 'https://www.outland.no/one-piece-3-in-1-4-5-6'
         },
         {
+            name: 'HoloNova Fan',
+            info: 'Dette er en vifte som kan vise bilder og videoer i fin kvalitet. Hvis du skal kjøpe dette må du trykke på der det står "Plug type", og velge EU plug.',
+            link: 'https://holonova.store'
+        },
+        {
             name: 'Penger!',
             info: 'Brukes til å betale for produkter og tjenester :-D'
         },
