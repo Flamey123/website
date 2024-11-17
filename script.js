@@ -46,6 +46,11 @@ document.addEventListener('DOMContentLoaded', function() {
             link: 'https://holonova.store'
         },
         {
+            name: 'PlayStation DualSense Edge',
+            info: 'Profosjonell spill kontroller.',
+            link: 'https://www.prisjakt.no/product.php?p=7009413'
+        },
+        {
             name: 'Penger!',
             info: 'Brukes til å betale for produkter og tjenester :-D'
         },
