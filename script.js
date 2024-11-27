@@ -3,7 +3,7 @@ document.addEventListener('DOMContentLoaded', function() {
         {
             name: 'GoPro Vanntett Deksel',
             info: 'Vanntett deksel til GoPro.',
-            link: 'https://www.foto.no/gopro/138854/gopro-protective-housing-hero-10-11-12-vanntett-inntil-60m?pjclid=feeb31ed-22b0-43d2-88e5-8baaba2b26ad_e4c03e8bf0df72e5'
+            link: 'https://www.elkjop.no/product/sport-hobby-og-fritid/kamera-og-foto/kameratilbehor/actionkamera-tilbehor/vanntett-etui-for-gopro-hero-910/630536?utm_source=prisjakt&utm_medium=pricecomparison&utm_campaign=elkjop_2024_w18-18_pri.com-prisjakt_MTUTIC_32602280071835255&utm_content=5-MP'
         },
         {
             name: 'GoPro Stativ',
@@ -26,8 +26,13 @@ document.addEventListener('DOMContentLoaded', function() {
             link: 'https://holonova.store'
         },
         {
+            name: 'ASTRO Bot PS5',
+            info: 'Dette er et spill til PlayStation 5.',
+            link: 'https://www.elkjop.no/product/gaming/spill/nordisk-film-1000044860-game/788518'
+        },
+        {
             name: 'VBucks/Robux',
-            info: 'Dette er en valutta som kan bli brukt i Fortnite og ROBLOX. Man kan bare overføre penger til Morten eller silje så blir det fikset senere.',
+            info: 'Dette er en valutta som kan bli brukt i Fortnite og ROBLOX. Man kan bare overføre penger til Morten eller Silje så blir det fikset senere.',
         },
         {
             name: 'Penger!',
