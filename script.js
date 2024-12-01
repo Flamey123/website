@@ -1,11 +1,6 @@
 document.addEventListener('DOMContentLoaded', function() {
     const wishlist = [
         {
-            name: 'GoPro Vanntett Deksel',
-            info: 'Vanntett deksel til GoPro.',
-            link: 'https://www.elkjop.no/product/sport-hobby-og-fritid/kamera-og-foto/kameratilbehor/actionkamera-tilbehor/vanntett-etui-for-gopro-hero-910/630536?utm_source=prisjakt&utm_medium=pricecomparison&utm_campaign=elkjop_2024_w18-18_pri.com-prisjakt_MTUTIC_32602280071835255&utm_content=5-MP'
-        },
-        {
             name: 'GoPro Stativ',
             info: 'Stativ til GoPro.',
             link: 'https://www.elkjop.no/product/sport-hobby-og-fritid/kamera-og-foto/kameratilbehor/tripod-til-kamera/fleksibelt-stativ-4i1-gopro-hero/60281'
