@@ -21,9 +21,14 @@ document.addEventListener('DOMContentLoaded', function() {
             link: 'https://nordicube.no/products/vin-cube-5x5-m-uv'
         },
         {
-            name: 'ASTRO Bot PS5',
-            info: 'Dette er et spill til PlayStation 5.',
-            link: 'https://www.elkjop.no/product/gaming/spill/nordisk-film-1000044860-game/788518'
+            name: 'Dayan Guhong Pro Maglev M 54MM',
+            info: 'Dette er en Speedcube som er mindre enn vanlig som gjør den bedre for enhånds løsning.',
+            link: 'https://mastercubestore.no/dayan/2172-dayan-guhong-pro-maglev-m-54mm-stickerless-6934874501209.html'
+        },
+        {
+            name: 'The Cubicle hard shell cube case',
+            info: 'Dette er nesten som en mini koffert til å ha kuber i når man skal på konkurannser eller turer. Når du skal betale kan du få 7% rabbat på din første bestilling, men du kan også få 5% mer rabatt ved å bruke rabattkode "Tingman". Denne koden tilhører en sto kube YouTuber i Australia.',
+            link: 'https://www.thecubicle.com/en-no/collections/backpacks/products/cubicle-hard-shell-cube-case'
         },
         {
             name: 'Penger!',
