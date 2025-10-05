@@ -1,14 +1,14 @@
 document.addEventListener('DOMContentLoaded', function() {
     const wishlist = [
         {
-            name: 'Nintendo Switch 2',
-            info: 'Dette er oppfølgeren til den populære spillkonsollen "Nintendo Switch".',
-            link: 'https://www.prisjakt.no/product.php?p=13101596'
+            name: 'Nintendo Switch 2 med Mario Kart World',
+            info: 'Dette er oppfølgeren til den populære spillkonsollen "Nintendo Switch" i en bundle med det nye Mario Kart spillet.',
+            link: 'https://www.prisjakt.no/product.php?p=14576269'
         },
         {
             name: 'Demon Slayer: The Hinokami Chronicles 2 (Switch 2)',
             info: 'Dette er et spill basert på en anime som heter demon slayer. Det er et fighting arena spill til Nintendo Switch 2.',
-            link: 'https://www.prisjakt.no/product.php?p=13101596'
+            link: 'https://www.nintendo.com/us/store/products/demon-slayer-kimetsu-no-yaiba-the-hinokami-chronicles-2-deluxe-edition-switch/'
         },
         {
             name: 'YJ MGC Square-1',
