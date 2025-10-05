@@ -1,6 +1,16 @@
 document.addEventListener('DOMContentLoaded', function() {
     const wishlist = [
         {
+            name: 'Nintendo Switch 2',
+            info: 'Dette er oppfølgeren til den populære spillkonsollen "Nintendo Switch".',
+            link: 'https://www.prisjakt.no/product.php?p=13101596'
+        },
+        {
+            name: 'Demon Slayer: The Hinokami Chronicles 2 (Switch 2)',
+            info: 'Dette er et spill basert på en anime som heter demon slayer. Det er et fighting arena spill til Nintendo Switch 2.',
+            link: 'https://www.prisjakt.no/product.php?p=13101596'
+        },
+        {
             name: 'YJ MGC Square-1',
             info: 'Dette er en rar type Rubiks cube som endrer form med navnet "Square-1". Når du skal betale kan du bruke en rabatt kode som tilhører den beste Rubiks cube løseren i Norge. Koden er "KR".',
             link: 'https://nordicube.no/products/yj-mgc-square-1-m?_pos=4&_psq=mgc&_ss=e&_v=1.0'
