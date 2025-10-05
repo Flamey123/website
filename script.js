@@ -37,7 +37,7 @@ document.addEventListener('DOMContentLoaded', function() {
         },
         {
             name: 'The Cubicle hard shell cube case',
-            info: 'Dette er nesten som en mini koffert til å ha kuber i når man skal på konkurannser eller turer. Når du skal betale kan du få 7% rabbat på din første bestilling, men du kan også få 5% mer rabatt ved å bruke rabattkode "Tingman". Denne koden tilhører en sto kube YouTuber i Australia.',
+            info: 'Dette er nesten som en mini koffert til å ha kuber i når man skal på konkurannser eller turer. Når du skal betale kan du få 7% rabbat på din første bestilling, men du kan også få 5% mer rabatt ved å bruke rabattkode "Tingman". Denne koden tilhører en stor kube YouTuber i Australia.',
             link: 'https://www.thecubicle.com/en-no/collections/backpacks/products/cubicle-hard-shell-cube-case'
         },
         {
