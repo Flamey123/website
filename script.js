@@ -11,6 +11,11 @@ document.addEventListener('DOMContentLoaded', function() {
             link: 'https://www.nintendo.com/us/store/products/demon-slayer-kimetsu-no-yaiba-the-hinokami-chronicles-2-deluxe-edition-switch/'
         },
         {
+            name: 'Pirhana Switch 2 reise veske',
+            info: 'Dette er en reiseveske til Switch 2.',
+            link: 'https://www.elkjop.no/product/gaming/spillkonsoller-og-tilbehor/nintendo-switch/nintendo-tilbehor/piranha-switch-2-reiseveske-xxl/927960#description'
+        },
+        {
             name: 'YJ MGC Square-1',
             info: 'Dette er en rar type Rubiks cube som endrer form med navnet "Square-1". Når du skal betale kan du bruke en rabatt kode som tilhører den beste Rubiks cube løseren i Norge. Koden er "KR".',
             link: 'https://nordicube.no/products/yj-mgc-square-1-m?_pos=4&_psq=mgc&_ss=e&_v=1.0'
