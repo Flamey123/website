@@ -16,6 +16,11 @@ document.addEventListener('DOMContentLoaded', function() {
             link: 'https://www.elkjop.no/product/gaming/spillkonsoller-og-tilbehor/nintendo-switch/nintendo-tilbehor/piranha-switch-2-reiseveske-xxl/927960#description'
         },
         {
+            name: 'UNO Show Em No Mercy!',
+            info: 'Dette er en annen versjon av UNO med nye kort(Som +10 wild) med en ny regel som er at man blir ute av spillet hvis man får 25 kort.',
+            link: 'https://www.prisjakt.no/product.php?p=12531455'
+        },
+        {
             name: 'YJ MGC Square-1',
             info: 'Dette er en rar type Rubiks cube som endrer form med navnet "Square-1". Når du skal betale kan du bruke en rabatt kode som tilhører den beste Rubiks cube løseren i Norge. Koden er "KR".',
             link: 'https://nordicube.no/products/yj-mgc-square-1-m?_pos=4&_psq=mgc&_ss=e&_v=1.0'
