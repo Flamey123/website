@@ -21,11 +21,6 @@ document.addEventListener('DOMContentLoaded', function() {
             link: 'https://www.prisjakt.no/product.php?p=12531455'
         },
         {
-            name: 'YJ MGC Square-1',
-            info: 'Dette er en rar type Rubiks cube som endrer form med navnet "Square-1". Når du skal betale kan du bruke en rabatt kode som tilhører den beste Rubiks cube løseren i Norge. Koden er "KR".',
-            link: 'https://nordicube.no/products/yj-mgc-square-1-m?_pos=4&_psq=mgc&_ss=e&_v=1.0'
-        },
-        {
             name: 'Moyu Weilong Skewb',
             info: 'Dette er en type Rubiks cube som har en rar måte å vri på som heter en "Skewb".',
             link: 'https://mastercubestore.no/yj-moyu/1957-moyu-weilong-skewb-maglev-stickerless-6970647060863.html'
@@ -46,8 +41,8 @@ document.addEventListener('DOMContentLoaded', function() {
             link: 'https://mastercubestore.no/dayan/2172-dayan-guhong-pro-maglev-m-54mm-stickerless-6934874501209.html'
         },
         {
-            name: 'The Cubicle hard shell cube case',
-            info: 'Dette er nesten som en mini koffert til å ha kuber i når man skal på konkurannser eller turer. Når du skal betale kan du få 7% rabbat på din første bestilling, men du kan også få 5% mer rabatt ved å bruke rabattkode "Tingman". Denne koden tilhører en stor kube YouTuber i Australia.',
+            name: 'Cubeguard Cube Case',
+            info: 'Dette er en liten koffert for kuber sånn at det blir lettere å ta med seg kuber til f. eks konkurannser. Når du skal betale kan du bruke en rabatt kode som tilhører den beste Rubiks cube løseren i Norge. Koden er "KR". ',
             link: 'https://www.thecubicle.com/en-no/collections/backpacks/products/cubicle-hard-shell-cube-case'
         },
         {
