@@ -1,19 +1,14 @@
 document.addEventListener('DOMContentLoaded', function() {
     const wishlist = [
         {
-            name: 'Nintendo Switch 2 med Mario Kart World',
-            info: 'Dette er oppfølgeren til den populære spillkonsollen "Nintendo Switch" i en bundle med det nye Mario Kart spillet.',
-            link: 'https://www.prisjakt.no/product.php?p=14576269'
+            name: 'SteelSeries Arctis GameBuds',
+            info: 'Ørepropper som er bra for gaming spesielt for prisen. Nå er den på stort tilbud til Black Friday men de er kanskje ikke det etter denne oppdateringen.',
+            link: 'https://www.prisjakt.no/product.php?p=13877828'
         },
         {
-            name: 'Demon Slayer: The Hinokami Chronicles 2 (Switch 2)',
-            info: 'Dette er et spill basert på en anime som heter demon slayer. Det er et fighting arena spill til Nintendo Switch 2.',
-            link: 'https://www.nintendo.com/us/store/products/demon-slayer-kimetsu-no-yaiba-the-hinokami-chronicles-2-deluxe-edition-switch/'
-        },
-        {
-            name: 'Pirhana Switch 2 reise veske',
-            info: 'Dette er en reiseveske til Switch 2.',
-            link: 'https://www.elkjop.no/product/gaming/spillkonsoller-og-tilbehor/nintendo-switch/nintendo-tilbehor/piranha-switch-2-reiseveske-xxl/927960#description'
+            name: 'Demon Slayer: The Hinokami Chronicles 2 (PS5)',
+            info: 'Dette er et spill basert på en anime som heter demon slayer. Det er et fighting arena spill til PS5.',
+            link: 'https://www.prisjakt.no/product.php?p=14503095'
         },
         {
             name: 'UNO Show Em No Mercy!',
