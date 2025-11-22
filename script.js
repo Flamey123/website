@@ -11,11 +11,6 @@ document.addEventListener('DOMContentLoaded', function() {
             link: 'https://www.prisjakt.no/product.php?p=14503095'
         },
         {
-            name: 'UNO Show Em No Mercy!',
-            info: 'Dette er en annen versjon av UNO med nye kort(Som +10 wild) med en ny regel som er at man blir ute av spillet hvis man får 25 kort.',
-            link: 'https://www.prisjakt.no/product.php?p=12531455'
-        },
-        {
             name: 'Moyu Weilong Skewb',
             info: 'Dette er en type Rubiks cube som har en rar måte å vri på som heter en "Skewb".',
             link: 'https://mastercubestore.no/yj-moyu/1957-moyu-weilong-skewb-maglev-stickerless-6970647060863.html'
