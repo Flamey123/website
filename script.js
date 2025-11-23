@@ -15,6 +15,11 @@ document.addEventListener('DOMContentLoaded', function() {
             info: 'Dette er en type Rubiks cube som har en rar måte å vri på som heter en "Skewb".',
             link: 'https://mastercubestore.no/yj-moyu/1957-moyu-weilong-skewb-maglev-stickerless-6970647060863.html'
         },
+         {
+            name: 'Killteam approved ops misson pack 2025',
+            info: 'En bunke med kort som er lurt å ha når man spiller missions i Warhammer 40 000: Killteam.',
+            link: 'https://www.warhammer.com/en-NO/shop/kill-team-approved-ops-cards-eng-2025?queryID=6a917567d680751643361e4229d92f43'
+        },
         {
             name: 'QiYi Clock',
             info: 'Dette er et Rubiks Pusslespill der målet er å få alle klokkene til å peke opp. Når du skal betale kan du bruke en rabatt kode som tilhører den beste Rubiks cube løseren i Norge. Koden er "KR". Hvis den ikke allerede er valgt, vil jeg helst ha Lilac fargen. Den kinesiske limited fargen er ikke lov i offisielle konkurannser.',
