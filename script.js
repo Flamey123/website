@@ -1,24 +1,14 @@
 document.addEventListener('DOMContentLoaded', function() {
     const wishlist = [
         {
-            name: 'Demon Slayer: The Hinokami Chronicles 2 (PS5)',
-            info: 'Dette er et spill basert på en anime som heter demon slayer. Det er et fighting arena spill til PS5.',
-            link: 'https://www.prisjakt.no/product.php?p=14503095'
+            name: 'Haven tent Spectre',
+            info: 'Dette er en luksus hengekøye som føles som et svevende mini telt. Når man skal kjøpe, husk på liggeunderlag, R5, istedenfor R2,5.',
+            link: 'https://www.magasinet.no/haven-tent-spectre-xl-hengekoye-valgfritt-liggeunderlag'
         },
         {
-            name: 'Moyu Weilong Skewb',
-            info: 'Dette er en type Rubiks cube som har en rar måte å vri på som heter en "Skewb".',
-            link: 'https://mastercubestore.no/yj-moyu/1957-moyu-weilong-skewb-maglev-stickerless-6970647060863.html'
-        },
-         {
-            name: 'Killteam approved ops misson pack 2025',
-            info: 'En bunke med kort som er lurt å ha når man spiller missions i Warhammer 40 000: Killteam.',
-            link: 'https://www.warhammer.com/en-NO/shop/kill-team-approved-ops-cards-eng-2025?queryID=6a917567d680751643361e4229d92f43'
-        },
-        {
-            name: 'Dayan Guhong Pro Maglev M 54MM',
-            info: 'Dette er en Speedcube som er mindre enn vanlig som gjør den bedre for enhånds løsning.',
-            link: 'https://mastercubestore.no/dayan/2172-dayan-guhong-pro-maglev-m-54mm-stickerless-6934874501209.html'
+            name: 'Haven Whoopie slings',
+            info: 'Dette er et tilbehør til haven tent som skal gjøre det letter å justere hengekøya.',
+            link: 'https://www.magasinet.no/haven-tent-whoopie-slings-feste-til-hengekoye-green'
         },
         {
             name: 'Penger!',
